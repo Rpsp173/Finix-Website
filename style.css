@@ -192,6 +192,7 @@ img{
     animation: playbtn 1.6s ease-out infinite;
 
 }
+
 @keyframes playbtn {
     0%{
         transform: scale(0);
@@ -246,7 +247,6 @@ img{
 }
 .card-content p{
     font-size: 20px;
-    font-weight: ;
 }
 .mamu{
     margin-top: -30px;
@@ -524,7 +524,6 @@ img{
     font-size: 30px;
 }
 
-.post-content{}
 .post-content p{
     font-size: 19px;
     font-weight: bold;
